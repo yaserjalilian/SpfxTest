@@ -131,6 +131,7 @@ export default class CrudReact3 extends React.Component<ICrudReact3Props, IState
               <th>Destination</th>
               <th>Owner</th>
               <th>State</th>
+              <th>Date</th>
               <th>Link to File</th>
             </tr>
           </thead>
